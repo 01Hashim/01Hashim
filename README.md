@@ -1,5 +1,5 @@
-# 💫 About Me: 
-<h3 align="center">A passionate Android Application developer from India</h3>
+# 💫 About Me: I am learning to build simple, user-friendly, and responsive mobile applications.  
+Focused on improving my coding skills and working on beginner projects.
 <img align="right" alt="Coding" width="400" height="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <img align="right" alt="Coding" width="400" height="300" src="https://developer.android.com/static/images/mad/mad-header.gif">
 <img align="right" alt="Coding" width="400" height="300" src="https://developer.android.com/static/images/jetpack/compose/landing-preview-animation.gif">
