@@ -1,4 +1,4 @@
-# 💫 About Me: about.me is a personal web hosting service co-founded by Ryan Freitas, Tony Conrad and Tim Young in October 2009. The site offers registered users a simple platform from which to link multiple online identities, relevant external sites, and popular social networking websites such as Facebook, Flickr, and
+# 💫 About Me: 
 <h3 align="center">A passionate Android Application developer from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <img align="right" alt="Coding" width="400" height="300" src="https://developer.android.com/static/images/mad/mad-header.gif">
