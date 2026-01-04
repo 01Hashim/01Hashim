@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" height="300" src="https://developer.android.com/static/images/mad/mad-header.gif">
 <img align="right" alt="Coding" width="400" height="300" src="https://developer.android.com/static/images/jetpack/compose/landing-preview-animation.gif">
 
-- 👋 Hi, I’m Hashim<br>- 👀 I’m interested in ...<br>- 🌱 I’m currently learning ...<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...<br>
+- 👋 Hi, I’m Hashim<br>- 👀 I’m interested in app development.<br>- 🌱 I’m currently learning java.<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me 01hashim.m@gmail.com ...<br>
 
 
 ## 🌐 Socials:
